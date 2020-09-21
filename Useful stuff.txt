@@ -1,0 +1,9 @@
+Start with go in 12 mins
+https://www.youtube.com/watch?v=C8LgvuEBraI&ab_channel=JakeWright
+
+Concurrency in go:
+https://www.youtube.com/watch?v=LvgVSSpwND8&t=46s&ab_channel=JakeWright
+
+
+Link to the presentation we are doing:
+https://docs.google.com/presentation/d/1hfruAshBIWTpbRIW9Ff6U5VjWuJ3yfcDBh1WFIX_jLE/edit?usp=sharing
